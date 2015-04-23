@@ -1,0 +1,105 @@
+Call-ID: 6326b82149dfb02e-10906@206.81.183.93
+To: <sip:206.81.183.91:5060>
+Contact: <sip:206.81.183.91>
+Organization: Fuzebox, Inc
+From: <sip:dispatcher@206.81.183.40>;tag=9a0b188808a4b82a9793488ff9bb982d-a6eb
+User-Agent: FuzeVideoGateway/1.0.0
+
+
+2015/02/16 12:35:36.645	3	SIP Pool:0x7f305fbe4700	       sipep.cxx(2115)	SIP     	Handled non-connection PDU "10 OPTIONS sip:206.81.183.91:5060 z9hG4bKc3c.fd158666000000000000000000000000.0" for token=z9hG4bKc3c.fd158666000000000000000000000000.0
+2015/02/16 12:35:39.764	4	SIP Pool:0x7f305fc25700	      sippdu.cxx(4338)	SIP     	Handling timeout for transaction using id=z9hG4bK20b3.1efad650000000000000000000000000.0
+2015/02/16 12:35:39.764	3	SIP Pool:0x7f305fc25700	      sippdu.cxx(3458)	SIP     	Set state Terminated_Success for Response transaction id=z9hG4bK20b3.1efad650000000000000000000000000.0
+2015/02/16 12:35:39.764	4	SIP Pool:0x7f305fc25700	      sippdu.cxx(3485)	SIP     	Completed state for transaction id=z9hG4bK20b3.1efad650000000000000000000000000.0
+2015/02/16 12:35:39.764	4	SIP Pool:0x7f305fc25700	        sippdu.h(919)	SIP      	Handled timeout
+2015/02/16 12:35:39.774	4	SIP Pool:0x7f305fc25700	      sippdu.cxx(4338)	SIP     	Handling timeout for transaction using id=z9hG4bK23b3.bd2fbad1000000000000000000000000.0
+2015/02/16 12:35:39.774	3	SIP Pool:0x7f305fc25700	      sippdu.cxx(3458)	SIP     	Set state Terminated_Success for Response transaction id=z9hG4bK23b3.bd2fbad1000000000000000000000000.0
+2015/02/16 12:35:39.774	4	SIP Pool:0x7f305fc25700	      sippdu.cxx(3485)	SIP     	Completed state for transaction id=z9hG4bK23b3.bd2fbad1000000000000000000000000.0
+2015/02/16 12:35:39.774	4	SIP Pool:0x7f305fc25700	        sippdu.h(919)	SIP      	Handled timeout
+2015/02/16 12:35:40.001	4	Opal Garba...3067dfc700	      sippdu.cxx(3115)	SIP     	Transaction id=z9hG4bK20b3.1efad650000000000000000000000000.0 destroyed.
+2015/02/16 12:35:40.001	4	Opal Garba...3067dfc700	  transports.cxx(998)	Opal      	Transport Close
+2015/02/16 12:35:40.001	4	Opal Garba...3067dfc700	  transports.cxx(1417)	Opal      	Deleted transport rem=udp$206.81.183.84:5060, if=udp$206.81.183.91:5060
+2015/02/16 12:35:40.002	4	Opal Garba...3067dfc700	      sippdu.cxx(3115)	SIP     	Transaction id=z9hG4bK23b3.bd2fbad1000000000000000000000000.0 destroyed.
+2015/02/16 12:35:40.002	4	Opal Garba...3067dfc700	  transports.cxx(998)	Opal      	Transport Close
+2015/02/16 12:35:40.003	4	Opal Garba...3067dfc700	  transports.cxx(1417)	Opal      	Deleted transport rem=udp$206.81.183.84:5060, if=udp$206.81.183.91:5060
+2015/02/16 12:35:41.632	4	SIP Pool:0x7f305fc25700	      sippdu.cxx(4338)	SIP     	Handling timeout for transaction using id=z9hG4bK04c.7bda6c27000000000000000000000000.0
+2015/02/16 12:35:41.633	3	SIP Pool:0x7f305fc25700	      sippdu.cxx(3458)	SIP     	Set state Terminated_Success for Response transaction id=z9hG4bK04c.7bda6c27000000000000000000000000.0
+2015/02/16 12:35:41.633	4	SIP Pool:0x7f305fc25700	      sippdu.cxx(3485)	SIP     	Completed state for transaction id=z9hG4bK04c.7bda6c27000000000000000000000000.0
+2015/02/16 12:35:41.633	4	SIP Pool:0x7f305fc25700	        sippdu.h(919)	SIP      	Handled timeout
+2015/02/16 12:35:41.642	4	SIP Pool:0x7f305fc25700	      sippdu.cxx(4338)	SIP     	Handling timeout for transaction using id=z9hG4bKc3c.fd158666000000000000000000000000.0
+2015/02/16 12:35:41.643	3	SIP Pool:0x7f305fc25700	      sippdu.cxx(3458)	SIP     	Set state Terminated_Success for Response transaction id=z9hG4bKc3c.fd158666000000000000000000000000.0
+2015/02/16 12:35:41.643	4	SIP Pool:0x7f305fc25700	      sippdu.cxx(3485)	SIP     	Completed state for transaction id=z9hG4bKc3c.fd158666000000000000000000000000.0
+2015/02/16 12:35:41.643	4	SIP Pool:0x7f305fc25700	        sippdu.h(919)	SIP      	Handled timeout
+2015/02/16 12:35:42.005	4	Opal Garba...3067dfc700	      sippdu.cxx(3115)	SIP     	Transaction id=z9hG4bK04c.7bda6c27000000000000000000000000.0 destroyed.
+2015/02/16 12:35:42.005	4	Opal Garba...3067dfc700	  transports.cxx(998)	Opal      	Transport Close
+2015/02/16 12:35:42.005	4	Opal Garba...3067dfc700	  transports.cxx(1417)	Opal      	Deleted transport rem=udp$206.81.183.93:5060, if=udp$206.81.183.91:5060
+2015/02/16 12:35:42.006	4	Opal Garba...3067dfc700	      sippdu.cxx(3115)	SIP     	Transaction id=z9hG4bKc3c.fd158666000000000000000000000000.0 destroyed.
+2015/02/16 12:35:42.006	4	Opal Garba...3067dfc700	  transports.cxx(998)	Opal      	Transport Close
+2015/02/16 12:35:42.006	4	Opal Garba...3067dfc700	  transports.cxx(1417)	Opal      	Deleted transport rem=udp$206.81.183.93:5060, if=udp$206.81.183.91:5060
+2015/02/16 12:35:49.757	3	Opal Liste...3067cf8700	  transports.cxx(1410)	OpalUDP      	Binding to interface: 206.81.183.91:5060
+2015/02/16 12:35:49.758	4	Opal Liste...3067cf8700	       sipep.cxx(387)	SIP     	Waiting for PDU on rem=udp$206.81.183.84:5060, if=udp$206.81.183.91:5060
+2015/02/16 12:35:49.760	3	Opal Liste...3067cf8700	      sippdu.cxx(2336)	PDU received: rem=udp$206.81.183.84:5060,local=udp$206.81.183.91:5060,if=206.81.183.91%bond0
+OPTIONS sip:206.81.183.91:5060 SIP/2.0
+Via: SIP/2.0/UDP 206.81.183.84;branch=z9hG4bKd0c3.af279205000000000000000000000000.0
+CSeq: 10 OPTIONS
+Content-Length: 0
+Call-ID: 398a64791f02f85f-21095@206.81.183.84
+To: <sip:206.81.183.91:5060>
+Max-Forwards: 70
+From: <sip:dispatcher@206.81.183.40>;tag=738a0e2f624e1dbf408d99c1eba4e697-af73
+User-Agent: kamailio (4.1.5 (x86_64/linux))
+
+
+2015/02/16 12:35:49.761	4	Opal Liste...3067cf8700	       sipep.cxx(2024)	SIP     	Queueing PDU "10 OPTIONS sip:206.81.183.91:5060 z9hG4bKd0c3.af279205000000000000000000000000.0", transaction=z9hG4bKd0c3.af279205000000000000000000000000.0, token=z9hG4bKd0c3.af279205000000000000000000000000.0
+2015/02/16 12:35:49.762	3	SIP Pool:0x7f305fc25700	       sipep.cxx(2076)	SIP     	Handling non-connection PDU "10 OPTIONS sip:206.81.183.91:5060 z9hG4bKd0c3.af279205000000000000000000000000.0" for token=z9hG4bKd0c3.af279205000000000000000000000000.0
+2015/02/16 12:35:49.762	3	Opal Liste...3067cf8700	  transports.cxx(1410)	OpalUDP      	Binding to interface: 206.81.183.91:5060
+2015/02/16 12:35:49.762	4	SIP Pool:0x7f305fc25700	      sippdu.cxx(3095)	SIP     	Response transaction id=z9hG4bKd0c3.af279205000000000000000000000000.0 created.
+2015/02/16 12:35:49.763	4	SIP Pool:0x7f305fc25700	      sippdu.cxx(3686)	SIP     	Response transaction timer set 5.000/5.000[732843]
+2015/02/16 12:35:49.762	4	Opal Liste...3067cf8700	       sipep.cxx(387)	SIP     	Waiting for PDU on rem=udp$206.81.183.84:5060, if=udp$206.81.183.91:5060
+2015/02/16 12:35:49.764	4	SIP Pool:0x7f305fc25700	       sipep.cxx(1936)	SIP     	No registrar for aor sip:@206.81.183.40
+2015/02/16 12:35:49.764	3	Opal Liste...3067cf8700	      sippdu.cxx(2336)	PDU received: rem=udp$206.81.183.84:5060,local=udp$206.81.183.91:5060,if=206.81.183.91%bond0
+OPTIONS sip:206.81.183.91:5060 SIP/2.0
+Via: SIP/2.0/UDP 206.81.183.84;branch=z9hG4bK8393.6743c892000000000000000000000000.0
+CSeq: 10 OPTIONS
+Content-Length: 0
+Call-ID: 398a64791f02f863-21095@206.81.183.84
+To: <sip:206.81.183.91:5060>
+Max-Forwards: 70
+From: <sip:dispatcher@206.81.183.40>;tag=738a0e2f624e1dbf408d99c1eba4e697-ef3f
+User-Agent: kamailio (4.1.5 (x86_64/linux))
+
+
+2015/02/16 12:35:49.766	4	Opal Liste...3067cf8700	       sipep.cxx(2024)	SIP     	Queueing PDU "10 OPTIONS sip:206.81.183.91:5060 z9hG4bK8393.6743c892000000000000000000000000.0", transaction=z9hG4bK8393.6743c892000000000000000000000000.0, token=z9hG4bK8393.6743c892000000000000000000000000.0
+2015/02/16 12:35:49.766	3	SIP Pool:0x7f305fbe4700	       sipep.cxx(2076)	SIP     	Handling non-connection PDU "10 OPTIONS sip:206.81.183.91:5060 z9hG4bK8393.6743c892000000000000000000000000.0" for token=z9hG4bK8393.6743c892000000000000000000000000.0
+2015/02/16 12:35:49.767	4	SIP Pool:0x7f305fbe4700	      sippdu.cxx(3095)	SIP     	Response transaction id=z9hG4bK8393.6743c892000000000000000000000000.0 created.
+2015/02/16 12:35:49.767	4	SIP Pool:0x7f305fbe4700	      sippdu.cxx(3686)	SIP     	Response transaction timer set 5.000/5.000[732845]
+2015/02/16 12:35:49.768	4	SIP Pool:0x7f305fbe4700	       sipep.cxx(1936)	SIP     	No registrar for aor sip:@206.81.183.40
+2015/02/16 12:35:49.771	4	SIP Pool:0x7f305fc25700	       sipep.cxx(1959)	SIP     	Adjusted Contact to sip:206.81.183.91 from listeners.
+2015/02/16 12:35:49.771	3	SIP Pool:0x7f305fc25700	      sippdu.cxx(2444)	Sending PDU (392 bytes) to: rem=udp$206.81.183.84:5060,local=udp$206.81.183.91:5060,if=206.81.183.91%bond0
+SIP/2.0 200 OK
+Via: SIP/2.0/UDP 206.81.183.84;branch=z9hG4bKd0c3.af279205000000000000000000000000.0
+CSeq: 10 OPTIONS
+Content-Length: 0
+Call-ID: 398a64791f02f85f-21095@206.81.183.84
+To: <sip:206.81.183.91:5060>
+Contact: <sip:206.81.183.91>
+Organization: Fuzebox, Inc
+From: <sip:dispatcher@206.81.183.40>;tag=738a0e2f624e1dbf408d99c1eba4e697-af73
+User-Agent: FuzeVideoGateway/1.0.0
+
+
+2015/02/16 12:35:49.772	3	SIP Pool:0x7f305fc25700	       sipep.cxx(2115)	SIP     	Handled non-connection PDU "10 OPTIONS sip:206.81.183.91:5060 z9hG4bKd0c3.af279205000000000000000000000000.0" for token=z9hG4bKd0c3.af279205000000000000000000000000.0
+2015/02/16 12:35:49.775	4	SIP Pool:0x7f305fbe4700	       sipep.cxx(1959)	SIP     	Adjusted Contact to sip:206.81.183.91 from listeners.
+2015/02/16 12:35:49.775	3	SIP Pool:0x7f305fbe4700	      sippdu.cxx(2444)	Sending PDU (392 bytes) to: rem=udp$206.81.183.84:5060,local=udp$206.81.183.91:5060,if=206.81.183.91%bond0
+SIP/2.0 200 OK
+Via: SIP/2.0/UDP 206.81.183.84;branch=z9hG4bK8393.6743c892000000000000000000000000.0
+CSeq: 10 OPTIONS
+Content-Length: 0
+Call-ID: 398a64791f02f863-21095@206.81.183.84
+To: <sip:206.81.183.91:5060>
+Contact: <sip:206.81.183.91>
+Organization: Fuzebox, Inc
+From: <sip:dispatcher@206.81.183.40>;tag=738a0e2f624e1dbf408d99c1eba4e697-ef3f
+User-Agent: FuzeVideoGateway/1.0.0
+
+
+2015/02/16 12:35:49.776	3	SIP Pool:0x7f305fbe4700	       sipep.cxx(2115)	SIP     	Handled non-connection PDU "10 OPTIONS sip:206.81.183.91:5060 z9hG4bK8393.6743c892000000000000000000000000.0" for token=z9hG4bK8393.6743c892000000000000000000000000.0
